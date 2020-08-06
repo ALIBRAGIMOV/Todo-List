@@ -23,6 +23,6 @@ module.exports = {
     resolve: {extensions: ['.ts', '.tsx', '.js']},
     devServer: {
         contentBase: './',
-        port: 5000
+        port: 3000
     }
 }
